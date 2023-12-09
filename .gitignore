@@ -4,6 +4,7 @@
 !*.*
 !*/
 
-# Input data
+# Input data and swaps
 
 *.txt
+*.swp
