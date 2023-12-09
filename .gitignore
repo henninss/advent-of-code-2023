@@ -1,0 +1,9 @@
+# For all executables
+
+*
+!*.*
+!*/
+
+# Input data
+
+*.txt
